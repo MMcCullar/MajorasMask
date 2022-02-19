@@ -1,0 +1,22 @@
+.box {
+    height: 20px;
+    width: 20px;
+    float: left;
+}
+.black {
+    background-color: black;
+}
+.yellow {
+    background-color: yellow;
+}
+.orange {
+    background-color: orange;
+}
+.blue {background-color: blue;
+}
+.lt {
+    background-color: rgb(17, 175, 248);
+}
+.red {
+    background-color: red;
+}
